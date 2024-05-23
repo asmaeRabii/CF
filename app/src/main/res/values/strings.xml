@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="employee_name_label">Nom de employé</string>
+    <string name="employee_first_name_label">Prénom de employé</string>
+</resources>
