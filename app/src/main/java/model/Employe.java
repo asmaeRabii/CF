@@ -2,7 +2,7 @@ package model;
 import java.io.Serializable;
 public class Employe implements Serializable {
     private final String nom, prenom, cin, fonction;
-    private final int age, doti;
+    private final int age, doti,i;
     public Employe(String n,String pn,String ci,String fon,int ag, int dot){
         nom = n;
         prenom = pn;
